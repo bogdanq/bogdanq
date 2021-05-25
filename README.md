@@ -4,7 +4,9 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bogdanq&theme=midnight-purple&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogdanq&show_icons=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bogdanq)](https://github.com/bogdanq/github-readme-stats)
+
+
 
 <!--
 **bogdanq/bogdanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
